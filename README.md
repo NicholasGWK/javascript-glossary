@@ -1,5 +1,5 @@
 # javascript-glossary
-A giant list of Javascript terms and buzzwords with short, high-level descriptions.
+A giant list of Javascript terms and buzzwords with short, high-level descriptions. Checkout the [Contribution Guidelines](./Contributing.md)!
 
 
 #### Browser
