@@ -7,3 +7,7 @@ A program which allows a user to interact with a [Web Server](#web-server) to ac
 
 #### JavaScript
 Abbreviated JS, the de-facto [implementation](#implementation) of the [ECMAScript](#ecmascript) scripting language. Runs in the [browser](#browser) with a JavaScript [Engine](#engine), or on a server with [Node](#node).
+
+#### Web Server
+
+A [server](#server) which is designed to allow [clients](#client) to access a [website](#website), [webapp](#webapp), or [API](#application-programming-interface)
